@@ -4,7 +4,7 @@ A comprehensive international food and beverages e-commerce website with a clean
 
 ## 🔗 Live Site
 
-👉 [Visit Website](https://soft-valkyrie-73fc00.netlify.app/)
+👉 [Visit Website](https://monumental-croissant-4705c8.netlify.app/)
 
 ---
 
