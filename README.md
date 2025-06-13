@@ -42,7 +42,7 @@ Additional features:
 
 ## 🖼️ Screenshots
 
-> Upload your images in the repository (e.g., in a `/screenshots` folder) and update the paths accordingly.
+
 
 ### 🖥️ Desktop View
 
