@@ -46,7 +46,7 @@ Additional features:
 
 ### 🖥️ Desktop View
 
-![Desktop View](screenshots/desktop-home.png)
+![Desktop View](home.jpg)
 
 ### 📱 Mobile View
 
