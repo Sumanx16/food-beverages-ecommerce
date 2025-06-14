@@ -50,7 +50,7 @@ Additional features:
 
 ### 📱 Mobile View
 
-![Mobile View](screenshots/mobile-home.png)
+![Mobile View](mobile.jpg)
 
 ---
 
